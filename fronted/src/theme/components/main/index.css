@@ -1,0 +1,36 @@
+.main {
+    padding: 40px 40px 80px 40px;
+    margin-top: 60px;
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.textSection {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.imgSection {
+    width: 30%;
+}
+
+.groupe {
+    display: 'none';
+    position: absolute;
+    right: -5%;
+    bottom: 10px;
+    width: 13%;
+    transform: rotate(340deg);
+   
+}
+
+.imgbg {
+    width: 30%;
+}

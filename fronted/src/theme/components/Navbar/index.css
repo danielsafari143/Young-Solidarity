@@ -1,0 +1,32 @@
+.headClass {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px 10px 40px;
+}
+
+.headList {
+    display: flex;
+    gap: 20px;
+    font-family: 'Cinzel', serif;
+    font-family: 'Fauna One', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.headlogo {
+    width: 70px;
+    object-fit: contain;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.links:hover{
+    cursor: pointer;
+}

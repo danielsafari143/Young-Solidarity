@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Fauna+One&family=Lato&family=Montserrat:wght@600&family=Poppins:wght@300&display=swap');
+body{
+  padding: 0;
+  margin: 0;
+  overflow-x:hidden;
+}
+*{
+  box-sizing: border-box;
+  padding: 0;
+  overflow-x:hidden;
+}
+
+
