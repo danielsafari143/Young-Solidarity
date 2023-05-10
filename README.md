@@ -35,16 +35,30 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Html</summary>
+  <summary>React</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Css</summary>
+  <summary>redux</summary>
+  <ul>
+    <li><a href="https://redux.com/">redux</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Express</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>MongoDb</summary>
+  <ul>
+    <li><a href="https://mongodb.com/">Mongodb</a></li>
   </ul>
 </details>
 
