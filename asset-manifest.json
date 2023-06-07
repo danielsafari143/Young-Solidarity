@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Young-Solidarity/tree/main/fronted/static/css/main.44981c9b.css",
+    "main.js": "/Young-Solidarity/tree/main/fronted/static/js/main.b5ae7e33.js",
+    "static/css/846.c8375536.chunk.css": "/Young-Solidarity/tree/main/fronted/static/css/846.c8375536.chunk.css",
+    "static/js/846.685e3c75.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/846.685e3c75.chunk.js",
+    "static/js/6.6629a923.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/6.6629a923.chunk.js",
+    "static/js/311.4f07b575.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/311.4f07b575.chunk.js",
+    "static/js/481.99200952.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/481.99200952.chunk.js",
+    "static/js/451.4d170fcc.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/451.4d170fcc.chunk.js",
+    "static/js/600.46caf0f6.chunk.js": "/Young-Solidarity/tree/main/fronted/static/js/600.46caf0f6.chunk.js",
+    "static/media/insor.png": "/Young-Solidarity/tree/main/fronted/static/media/insor.b577141cc0028b8523ad.png",
+    "static/media/comm.png": "/Young-Solidarity/tree/main/fronted/static/media/comm.0d9ae86ecfa820b6755b.png",
+    "static/media/testimonial.png": "/Young-Solidarity/tree/main/fronted/static/media/testimonial.51aecc693eefda6eaf14.png",
+    "static/media/bgg.png": "/Young-Solidarity/tree/main/fronted/static/media/bgg.16a28692635f2d98e480.png",
+    "index.html": "/Young-Solidarity/tree/main/fronted/index.html",
+    "main.44981c9b.css.map": "/Young-Solidarity/tree/main/fronted/static/css/main.44981c9b.css.map",
+    "main.b5ae7e33.js.map": "/Young-Solidarity/tree/main/fronted/static/js/main.b5ae7e33.js.map",
+    "846.c8375536.chunk.css.map": "/Young-Solidarity/tree/main/fronted/static/css/846.c8375536.chunk.css.map",
+    "846.685e3c75.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/846.685e3c75.chunk.js.map",
+    "6.6629a923.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/6.6629a923.chunk.js.map",
+    "311.4f07b575.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/311.4f07b575.chunk.js.map",
+    "481.99200952.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/481.99200952.chunk.js.map",
+    "451.4d170fcc.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/451.4d170fcc.chunk.js.map",
+    "600.46caf0f6.chunk.js.map": "/Young-Solidarity/tree/main/fronted/static/js/600.46caf0f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44981c9b.css",
+    "static/js/main.b5ae7e33.js"
+  ]
+}

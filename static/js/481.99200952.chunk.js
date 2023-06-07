@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyous=self.webpackChunkyous||[]).push([[481],{7481:function(n,r,u){u.r(r);var e=u(890),o=u(184);r.default=function(){return(0,o.jsx)(e.Z,{variant:"h5",sx:{marginTop:"60px",padding:"40px ",color:"red"},children:"Page not found Error 404 "})}}}]);
+//# sourceMappingURL=481.99200952.chunk.js.map
