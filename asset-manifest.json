@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Young-Solidarity/static/css/main.44981c9b.css",
-    "main.js": "/Young-Solidarity/static/js/main.2f8121eb.js",
+    "main.js": "/Young-Solidarity/static/js/main.640e9a1a.js",
     "static/css/846.c8375536.chunk.css": "/Young-Solidarity/static/css/846.c8375536.chunk.css",
     "static/js/846.685e3c75.chunk.js": "/Young-Solidarity/static/js/846.685e3c75.chunk.js",
     "static/js/6.6629a923.chunk.js": "/Young-Solidarity/static/js/6.6629a923.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/bgg.png": "/Young-Solidarity/static/media/bgg.16a28692635f2d98e480.png",
     "index.html": "/Young-Solidarity/index.html",
     "main.44981c9b.css.map": "/Young-Solidarity/static/css/main.44981c9b.css.map",
-    "main.2f8121eb.js.map": "/Young-Solidarity/static/js/main.2f8121eb.js.map",
+    "main.640e9a1a.js.map": "/Young-Solidarity/static/js/main.640e9a1a.js.map",
     "846.c8375536.chunk.css.map": "/Young-Solidarity/static/css/846.c8375536.chunk.css.map",
     "846.685e3c75.chunk.js.map": "/Young-Solidarity/static/js/846.685e3c75.chunk.js.map",
     "6.6629a923.chunk.js.map": "/Young-Solidarity/static/js/6.6629a923.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.44981c9b.css",
-    "static/js/main.2f8121eb.js"
+    "static/js/main.640e9a1a.js"
   ]
 }
