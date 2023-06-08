@@ -20,7 +20,7 @@ export function Navbar()  {
             zIndex='3'
          >
             <div>
-                <img className='headlogo' src={yous}/>
+                <NavLink to={`/`} className='links'><img className='headlogo' src={yous}/></NavLink>
             </div>
             <Box className='headList'>
                 {
